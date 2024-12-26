@@ -1,2 +1,2 @@
 # Gitdemo
-This is repo for practicing the git 
+This is repo for practicing the git .
